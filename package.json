@@ -159,6 +159,11 @@
     "android": {
       "javaPackageName": "com.bluetoothnitronexus"
     },
+    "ios": {
+      "frameworks": [
+        "CoreBluetooth"
+      ]
+    },
     "includesGeneratedCode": true
   },
   "create-react-native-library": {
